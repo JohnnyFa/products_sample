@@ -7,7 +7,7 @@ import 'core/impl/database/hive_adapters.dart';
 import 'core/routes/path/app_route_path.dart';
 import 'core/routes/route_observer.dart';
 import 'core/services/navigator_service.dart';
-import 'package:flutter_gen/gen_l10n/app_localizations.dart';
+import 'package:product_test/core/l10n/app_localizations.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
